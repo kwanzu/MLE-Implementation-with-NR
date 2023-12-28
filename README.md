@@ -83,10 +83,8 @@ MLE of lambda: 3.19998
 ```
 
 The MLE of $\lambda$ is close to the true value of 3.2.
+## References.
 
-For more examples and explanations of MLE implementation with NR in R, you can refer to the following sources¹²³⁴.
-
-Source: Conversation with Bing, 12/28/2023
 (1) Programming Newton Raphson in R for Maximum Likelihood estimation. https://stackoverflow.com/questions/42683458/programming-newton-raphson-in-r-for-maximum-likelihood-estimation.
 
 (2) A Gentle Introduction to Maximum Likelihood Estimation for Machine .... https://machinelearningmastery.com/what-is-maximum-likelihood-estimation-in-machine-learning/.
